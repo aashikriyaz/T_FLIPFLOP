@@ -26,10 +26,7 @@ STEP:7 compare the output with truth table.
 
 ![image](https://github.com/RESMIRNAIR/T_FLIPFLOP/assets/154305926/1d4afa40-166a-4690-ab1a-179948b9b550)
 # Program
-```
-Developed by: P.Abirami
-Register number: 212222060006
-```
+
 ```
 module tff(clk,reset,t,q);
 input clk,reset,t;
